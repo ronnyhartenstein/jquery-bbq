@@ -1,0 +1,18 @@
+{
+  "name": "jquery-bbq-axi",
+  "version": "1.2.2",
+  "main": ["jquery.ba-bbq.js"],
+  "ignore": [
+    "**/.*"
+  ],
+  "authors": [
+    "Ben Alman"
+  ],
+  "description": "hash history via a cross-browser window.onhashchange event",
+  "keywords": [
+    "hash",
+    "history",
+    "onhashchange"
+  ],
+  "license": "MIT"
+}
